@@ -2,7 +2,6 @@
 
 🎓 3rd Year B.Tech CSE @ SRM University, Chennai  
 💻 Aspiring Software Engineer | DSA | Web Development  
-📊 CGPA: 9.5  
 
 ## 🔧 Skills
 - Languages: C++, Java, HTML, CSS, JavaScript
